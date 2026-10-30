@@ -1,5 +1,7 @@
 # Forza Horizon 2: botões de PlayStation
 
+**Português** · [English](README.en.md)
+
 Troca os ícones de botão do Xbox pelos de PlayStation no Forza Horizon 2 (versão de Xbox One rodando no emulador Azimuth). Também substitui o diagrama do controle na tela de controles por um DualSense.
 
 Não precisa instalar nem rodar nada: é só copiar os arquivos por cima dos do jogo.
