@@ -28,8 +28,11 @@ D-pad, Menu/Options e o diagrama do volante continuam como no original.
    - `Mount\media\ui\textures\data_bound\ControllerIcons.zip`
    - `Mount\media\ui\textures\data_bound\Help_Buttons.zip`
    - `Mount\media\ui\textures\data_bound\UI_Symbols.zip`
-2. Copie a pasta `Mount` deste repositório para dentro da pasta do jogo (a que tem o `Azimuth.exe`). Quando o Windows perguntar, escolha **substituir os arquivos**.
-3. Abra o jogo.
+2. Baixe o `fh2-dualsense-ui.zip` da [última release](https://github.com/Theiago/fh2-dualsense-ui/releases/latest).
+3. Extraia o zip dentro da pasta `Mount` do jogo (`...\Forza Horizon 2\Mount\`). Quando o Windows perguntar, escolha **substituir os arquivos**.
+4. Abra o jogo.
+
+Outra opção, sem o zip: copie a pasta `Mount` deste repositório para dentro da pasta do jogo (a que tem o `Azimuth.exe`).
 
 ## Desinstalação
 

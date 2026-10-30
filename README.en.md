@@ -28,8 +28,11 @@ The D-pad, Menu/Options and the steering wheel diagram stay as in the original.
    - `Mount\media\ui\textures\data_bound\ControllerIcons.zip`
    - `Mount\media\ui\textures\data_bound\Help_Buttons.zip`
    - `Mount\media\ui\textures\data_bound\UI_Symbols.zip`
-2. Copy this repository's `Mount` folder into the game folder (the one with `Azimuth.exe`). When Windows asks, choose **replace the files**.
-3. Start the game.
+2. Download `fh2-dualsense-ui.zip` from the [latest release](https://github.com/Theiago/fh2-dualsense-ui/releases/latest).
+3. Extract the zip into the game's `Mount` folder (`...\Forza Horizon 2\Mount\`). When Windows asks, choose **replace the files**.
+4. Start the game.
+
+Alternatively, without the zip: copy this repository's `Mount` folder into the game folder (the one with `Azimuth.exe`).
 
 ## Uninstalling
 
